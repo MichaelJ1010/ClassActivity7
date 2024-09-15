@@ -10,6 +10,7 @@ int main(){
         names[i] = currentName;
     }
     cout << "First name enterd: " << names[0];
+    return 0;
     
     
 
